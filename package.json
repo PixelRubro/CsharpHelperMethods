@@ -1,0 +1,11 @@
+{
+  "name": "com.softboiledgames.csharphelpermethods",
+  "displayName": "Csharp Helper Methods",
+  "description": "Useful methods for C#.",
+  "version": "0.0.1",
+  "unity": "2019.4",
+  "license": "MIT",
+  "author": {
+    "name": "Soft Boiled Games"
+  }
+}
