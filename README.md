@@ -15,4 +15,4 @@ Helpful methods for C#, like Swap, Max and Min. This repo structure was created 
 
 Add the following line to your `manifest.json` found in the "Packages" folder
 
-`    "com.softboiledgames.unityxtension": "git@github.com:SoftBoiledGames/CsharpHelperMethods.git"`
+`    "com.softboiledgames.csharpextensionmethods": "git@github.com:SoftBoiledGames/CsharpHelperMethods.git"`
