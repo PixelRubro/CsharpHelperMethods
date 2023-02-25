@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SoftBoiledGames.CsharpHelperMethods
+namespace PixelSpark.CsharpHelperMethods
 {
     public static class CsharpHelper
     {
