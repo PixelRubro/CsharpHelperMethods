@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace VermillionVanguard.CsharpHelperMethods
+namespace PixelRouge.CsharpHelperMethods
 {
     public static class CsharpHelper
     {
